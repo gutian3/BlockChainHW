@@ -1,0 +1,73 @@
+[ERROR] [2020-01-17 00:56:17] org.fisco.bcos.asset.client.AssetClient.createReceipt(307) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 00:56:18] org.fisco.bcos.asset.client.AssetClient.createReceipt(307) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 00:56:20] org.fisco.bcos.asset.client.AssetClient.createReceipt(307) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 00:56:21] org.fisco.bcos.asset.client.AssetClient.createReceipt(307) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 00:56:22] org.fisco.bcos.asset.client.AssetClient.createReceipt(307) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:09:56] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:09:57] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:09:59] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:10:01] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:10:02] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:10:03] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:10:04] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:10:05] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 01:10:07] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 02:04:36] org.fisco.bcos.channel.client.Service.run(337) | connectSeconds = 30
+[ERROR] [2020-01-17 02:04:36] org.fisco.bcos.channel.client.Service.run(338) | can not connect to nodes success, please checkout the node status and the sdk config!
+[ERROR] [2020-01-17 02:04:36] org.fisco.bcos.channel.client.Service.run(349) | system error 
+java.lang.Exception: Can not connect to nodes success, please checkout the node status and the sdk config!
+	at org.fisco.bcos.channel.client.Service.run(Service.java:340)
+	at org.fisco.bcos.asset.client.AssetClient.initialize(AssetClient.java:106)
+	at org.fisco.bcos.asset.client.AssetClient.main(AssetClient.java:384)
+[ERROR] [2020-01-17 02:09:48] org.fisco.bcos.channel.client.Service.run(337) | connectSeconds = 30
+[ERROR] [2020-01-17 02:09:48] org.fisco.bcos.channel.client.Service.run(338) | can not connect to nodes success, please checkout the node status and the sdk config!
+[ERROR] [2020-01-17 02:09:48] org.fisco.bcos.channel.client.Service.run(349) | system error 
+java.lang.Exception: Can not connect to nodes success, please checkout the node status and the sdk config!
+	at org.fisco.bcos.channel.client.Service.run(Service.java:340)
+	at org.fisco.bcos.asset.client.AssetClient.initialize(AssetClient.java:106)
+	at org.fisco.bcos.asset.client.AssetClient.main(AssetClient.java:384)
+[ERROR] [2020-01-17 02:16:22] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 02:16:24] org.fisco.bcos.asset.client.AssetClient.createReceipt(321) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:02:57] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:03] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:03] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:04] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:04] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:05] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:09] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:09] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:11] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:11] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:13] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:14] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:16] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:45] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:47] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:48] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:03:48] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:04:07] org.fisco.bcos.asset.client.AssetClient.computeAllR(237) |  computeAll exception, error message is Index: 0
+[ERROR] [2020-01-17 03:04:11] org.fisco.bcos.asset.client.AssetClient.computeAllR(237) |  computeAll exception, error message is Index: 0
+[ERROR] [2020-01-17 03:04:13] org.fisco.bcos.asset.client.AssetClient.computeAllR(237) |  computeAll exception, error message is Index: 0
+[ERROR] [2020-01-17 03:04:15] org.fisco.bcos.asset.client.AssetClient.computeAllR(237) |  computeAll exception, error message is Index: 0
+[ERROR] [2020-01-17 03:04:26] org.fisco.bcos.asset.client.AssetClient.computeAllR(237) |  computeAll exception, error message is Index: 0
+[ERROR] [2020-01-17 03:07:41] org.fisco.bcos.asset.client.AssetClient.createReceipt(331) |  insertReceipt exception, error message is Unable to create instance of org.fisco.bcos.web3j.abi.datatypes.generated.Int256
+[ERROR] [2020-01-17 03:49:09] org.fisco.bcos.channel.handler.ChannelHandler.exceptionCaught(153) | network error 
+java.io.IOException: 连接被对方重设
+	at java.base/sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:39)
+	at java.base/sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:276)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:233)
+	at java.base/sun.nio.ch.IOUtil.read(IOUtil.java:223)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:358)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:347)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:148)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:656)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:591)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:508)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:470)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:909)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+[ERROR] [2020-01-17 03:50:02] org.fisco.bcos.channel.handler.ChannelHandler.userEventTriggered(27) | event:WRITER_IDLE connect127.0.0.1:20200 long time Inactive，disconnect
